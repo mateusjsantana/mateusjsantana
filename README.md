@@ -3,7 +3,6 @@
   <a href="https://github.com/mateusjsantana">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mateusjsantana&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 <! - <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjsantana&layout=compact&langs_count=7&theme=gruvbox"/> 
-<img src= https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjsantana&layout=compacthttps://github.com/mateusjsantana/github-readme-stats) />
     </div>
   
 
